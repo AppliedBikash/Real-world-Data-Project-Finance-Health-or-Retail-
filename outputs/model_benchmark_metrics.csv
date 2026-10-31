@@ -1,0 +1,4 @@
+Model,RMSE ($),MAE ($),R2_Score
+Ridge Linear Regression,160.16,84.31,0.7908
+Random Forest Regressor,80.79,31.72,0.9468
+Gradient Boosting Regressor,57.49,23.85,0.973
